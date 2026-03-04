@@ -1,8 +1,8 @@
 
 
-# Estudos para LPIC - Exercícios Práticos
+# Estudos LPIC e Sad Servers - Exercícios Práticos
 
-Este repositório contém os meus **exercícios práticos** realizados durante os estudos para o **LPIC (Linux Professional Institute Certification)**. O objetivo é consolidar o aprendizado de **administração de sistemas Linux** por meio de **exercícios práticos** e desafios reais.
+Este repositório contém os meus **exercícios práticos** realizados durante os estudos para o **LPIC (Linux Professional Institute Certification)**. O objetivo é consolidar o aprendizado de **administração de sistemas Linux** por meio de **exercícios práticos** e desafios reais - alguns gerados por IA outros pelo Sad Servers.
 
 ---
 
